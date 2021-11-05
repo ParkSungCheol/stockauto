@@ -1756,6 +1756,7 @@ class MyWindow(QMainWindow):
         msgBox.setWindowTitle("보유자산출력")
 
         msgBox.setText("< 귀하의 보유자산을 알려드립니다. >      ")
+        //안뇽
 
         if cnt == 0 :
 
