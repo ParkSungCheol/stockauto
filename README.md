@@ -44,8 +44,8 @@
 ------------
 ### 프로젝트 스크린샷을 첨부해주세요.
 + 스크린샷
-  + Login<br/>
-    <img width="522" alt="login" src="https://github.com/ParkSungCheol/MapleStoryCommunity/assets/93702296/5960616b-4ff8-4b98-8f84-9658045dad3f">
+  + 기술적 분석방법별 구현<br/>
+    ![Figure_1](https://github.com/ParkSungCheol/stockauto/assets/93702296/c83bb75a-cb50-48d1-be94-dc0425ce85ae)
   + Main&nbsp;Map<br/>
     <img width="526" alt="mainMap" src="https://github.com/ParkSungCheol/MapleStoryCommunity/assets/93702296/5c0aa940-e678-4df6-b861-afb0f6d758e8"><br/>
     <img width="523" alt="mainMap2" src="https://github.com/ParkSungCheol/MapleStoryCommunity/assets/93702296/9fd1535d-bf9f-4610-aa1c-1efe6e235b53">
