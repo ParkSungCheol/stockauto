@@ -46,7 +46,8 @@
 + 스크린샷
   + 기술적 분석방법별 구현<br/>
     ![Figure_1](https://github.com/ParkSungCheol/stockauto/assets/93702296/c83bb75a-cb50-48d1-be94-dc0425ce85ae)
-  + Main&nbsp;Map<br/>
-    <img width="526" alt="mainMap" src="https://github.com/ParkSungCheol/MapleStoryCommunity/assets/93702296/5c0aa940-e678-4df6-b861-afb0f6d758e8"><br/>
-    <img width="523" alt="mainMap2" src="https://github.com/ParkSungCheol/MapleStoryCommunity/assets/93702296/9fd1535d-bf9f-4610-aa1c-1efe6e235b53">
+  + 수익률 백테스팅<br/>
+    ![Figure_0](https://github.com/ParkSungCheol/stockauto/assets/93702296/d344e920-5306-4b26-a2f7-23e80f4e89a7)
+  + 수익률 백테스팅<br/>
+    ![Figure_0](https://github.com/ParkSungCheol/stockauto/assets/93702296/d344e920-5306-4b26-a2f7-23e80f4e89a7)
 ------------
