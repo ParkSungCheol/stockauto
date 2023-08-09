@@ -48,6 +48,9 @@
     ![Figure_1](https://github.com/ParkSungCheol/stockauto/assets/93702296/c83bb75a-cb50-48d1-be94-dc0425ce85ae)
   + 수익률 백테스팅<br/>
     ![Figure_0](https://github.com/ParkSungCheol/stockauto/assets/93702296/d344e920-5306-4b26-a2f7-23e80f4e89a7)
+  + 자동매매<br/>
+    ![Figure_3](https://github.com/ParkSungCheol/stockauto/assets/93702296/ffcdf7b4-2677-4025-a11f-2a80d4293157)<br/>
+    ![Figure_4](https://github.com/ParkSungCheol/stockauto/assets/93702296/7f83db71-77de-48f8-8c6c-69f7808bc154)
   + 수익률 백테스팅<br/>
     ![Figure_0](https://github.com/ParkSungCheol/stockauto/assets/93702296/d344e920-5306-4b26-a2f7-23e80f4e89a7)
 ------------
