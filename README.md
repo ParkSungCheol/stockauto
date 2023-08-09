@@ -12,7 +12,7 @@
     각 분석방법을 적용한 결과를 matplotlib.pyplot을 사용해 시각적으로 표현하여 검증
 > **[ 수익률 백테스팅 ]**
 + **[ matplotlib.pyplot ]** 
-  + FinanceDataReader(또는 )를 이용해 주식데이터를 가져온 후<br/>
+  + FinanceDataReader(또는 YahooFinanceData)를 이용해 주식데이터를 가져온 후<br/>
     각 분석방법을 적용한 결과를 matplotlib.pyplot을 사용해 시각적으로 표현하여 검증
 ------------
 ### 프로젝트는 어떤 서비스를 제공하나요?
