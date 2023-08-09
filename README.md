@@ -11,9 +11,13 @@
   + CREON Plus에서 주식데이터를 가져온 후<br/>
     각 분석방법을 적용한 결과를 matplotlib.pyplot을 사용해 시각적으로 표현하여 검증
 > **[ 수익률 백테스팅 ]**
-+ **[ matplotlib.pyplot ]** 
++ **[ backtrader ]** 
   + FinanceDataReader(또는 YahooFinanceData)를 이용해 주식데이터를 가져온 후<br/>
-    각 분석방법을 적용한 결과를 matplotlib.pyplot을 사용해 시각적으로 표현하여 검증
+    backtrader의 실행할 전략과 매수매도 단위를 설정하고<br/>
+    백테스팅을 수행할 backtrader의 Cerebro에 시드머니와 거래당 수수료 등을 설정하고<br/>
+    cerebro의 plot 메서드를 통해 백테스팅 과정을 시각적으로 표현하여 검증
+    
+    
 ------------
 ### 프로젝트는 어떤 서비스를 제공하나요?
 + 사용자가 **주식종목코드** 와 **매매금액**, **전략(하락장, 횡보장, 강세장 등)별 비중** 을 설정한 후 실행시키면 각 전략에 따라 매수와 매도를 자동으로 진행
